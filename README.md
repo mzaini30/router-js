@@ -10,7 +10,7 @@ Contoh link yang dibuat oleh router js ini adalah:
 
 Oh iya, kenapa kok nggak seperti ini:
 
-```javascript
+```
 situs.com/#edit/12
 ```
 
