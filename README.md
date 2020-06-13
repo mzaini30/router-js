@@ -10,7 +10,7 @@ Contoh link yang dibuat oleh router js ini adalah:
 
 Oh iya, kenapa kok nggak seperti ini:
 
-```
+```javascript
 situs.com/#edit/12
 ```
 
@@ -22,7 +22,7 @@ Pakai aja `router.js` yang ada di repositori ini.
 
 Terus, nanti masangnya kayak gini:
 
-```
+```html
 <script src="router.js"></script>
 ```
 
@@ -30,7 +30,7 @@ Terus, nanti masangnya kayak gini:
 
 Contoh kodenya:
 
-```
+```javascript
 new Router({
  el: ".tampil",
  routes: {
